@@ -1,0 +1,1 @@
+In this folder please put all of the THERIAK-DOMINO programs, your THERIN file, and the database you want to use.
